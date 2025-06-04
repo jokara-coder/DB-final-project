@@ -7,3 +7,4 @@ This is a relation database for a clinic booking system that manages data for Do
 # How to run it
 First, Clone the repository
 Git clone https://github.com/jokara-coder/DB-final-project.git
+cd Clinic-booking-system
